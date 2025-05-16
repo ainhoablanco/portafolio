@@ -55,7 +55,6 @@ const sr = ScrollReveal({
 
 sr.reveal('.inicio_data, .sobremi_img, .herramientas_subtitle, .herramientas_texto',{}); 
 sr.reveal('.inicio_img, .sobremi_subtitle, .sobremi_texto, .herramientas_img',{delay: 400}); 
-sr.reveal('.inicio_social-icon',{ interval: 200}); 
 sr.reveal('.herramientas_data, .proyectos_img, .contact_input',{interval: 200}); 
 
 /*PAUSAR REANUDAR VIDEO*/
